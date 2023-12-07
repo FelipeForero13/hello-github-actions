@@ -59,10 +59,7 @@ To get you started, we used actions to go ahead and made a branch and pull reque
 
 <footer>
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+
 
 ---
 
@@ -73,4 +70,8 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 </footer>
 
 Nuevos cambios, desde VisualCode
+
+PRUEBA EN DEVELOP
+Incluye
+<h1>dev</h1>
 
